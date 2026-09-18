@@ -20,7 +20,7 @@ Ele permite separar HTML da lógica da aplicação sem depender de parsing compl
 ## 📦 Instalação
 
 ```bash
-go get github.com/mugomes/mgtemplate
+go get github.com/profmugomes/mgtemplate
 ````
 
 ---
@@ -65,7 +65,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/mugomes/mgtemplate"
+	"github.com/profmugomes/mgtemplate"
 )
 
 type User struct {
@@ -191,23 +191,22 @@ Exemplo:
 
 **Murilo Gomes**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://profmugomes.com.br](https://profmugomes.com.br)
 
-📺 https://youtube.com/@mugomesoficial
+📺 https://youtube.com/@profmugomes
 
 ---
 
 ## Support
 
-- GitHub: https://github.com/sponsors/mugomes
-- More: https://mugomes.github.io/apoie.html
+- GitHub: https://github.com/sponsors/profmugomes
 
 ---
 
 ## License
 
-Copyright (c) 2026 Murilo Gomes Julio
+Copyright (c) 2026 Murilo Gomes <profmugomes.com.br>
 
-Licensed under the [MIT](https://github.com/mugomes/mgtemplate/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/profmugomes/mgtemplate/blob/main/LICENSE) license.
 
 All contributions to the MGTemplate are subject to this license.
