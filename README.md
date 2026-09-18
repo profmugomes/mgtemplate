@@ -1,10 +1,5 @@
 # MGTemplate
 
-<!-- Badge opcional para deixar claro visualmente -->
-![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
-
-> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
-
 MGTemplate é um mecanismo de templates leve escrito em Go, focado em **simplicidade**, **performance** e **controle explícito por código**.
 
 Ele permite separar HTML da lógica da aplicação sem depender de parsing complexo, ASTs ou fases de compilação. O template é interpretado de forma incremental conforme o código executa.
